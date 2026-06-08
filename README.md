@@ -4,6 +4,7 @@
 This project involves a comprehensive data analysis of Adidas sales data to evaluate business performance across the Middle East region. By transforming raw sales records into an interactive dashboard, this project provides stakeholders with clear visibility into product popularity, regional market strength, and sales channel effectiveness. 
 
 The ultimate goal is to empower decision-makers with actionable insights to optimize inventory distribution, tailor marketing strategies, and maximize revenue.
+<img width="1380" height="703" alt="Screenshot 2026-06-05 055500" src="https://github.com/user-attachments/assets/daced1b2-90a5-4473-a736-aa58c961cf48" />
 
 ---
 
